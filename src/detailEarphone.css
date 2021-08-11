@@ -1,0 +1,178 @@
+.tabel-1 {
+  display: flex;
+  align-items: center;
+}
+
+.image-1 {
+  width: 50%;
+  margin-left: 12vw;
+}
+
+img {
+  height: 540px;
+  width: 560px;
+  border-radius: 8px;
+}
+
+.information {
+  padding: 25px;
+  width: 50%;
+}
+
+.information-2{
+  margin-top: 5vh;
+  color: gray;
+}
+
+.information-2 .p{
+  padding-bottom: 2vh;
+}
+
+h7 {
+  letter-spacing: 15px;
+  color: #d87d4a;
+  line-height: 55px;
+}
+
+.ear-price {
+  margin: 45px 0;
+  font-weight: bold;
+}
+
+.cart-button {
+  display: flex;
+}
+
+.add-button {
+  margin-right: 10px;
+  width: 160px;
+  height: 48px;
+  background: #f1f1f1;
+  border: none;
+  border-radius: 2px;
+  text-align: center;
+  line-height: 50px;
+  font-weight: bolder;
+}
+
+.counter {
+  display: flex;
+  justify-content: center;
+}
+
+.counter-min {
+  margin-right: 50px;
+}
+
+.counter-max {
+  margin-left: 50px;
+}
+
+.addcart-button {
+  width: 160px;
+  height: 48px;
+  background: #d87d4a;
+  border: none;
+  border-radius: 2px;
+  color: #fff;
+  font-weight: bold;
+}
+
+.table-2 {
+  display: flex;
+  margin-top: 20vh;
+}
+
+.colomn{
+  margin-left: 12vw;
+  width: 40%;
+  padding-inline-end: 2px;
+  color: gray;
+}
+
+.table-title {
+  margin-bottom: 30px;
+  color: black;
+}
+
+.row-info {
+  text-align: justify;
+  color: gray;
+}
+
+.item {
+  color: #d87d4a;
+  margin-right: 25px;
+  line-height: 35px;
+  
+}
+
+.table-3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20vh;
+}
+
+.colomn-3{
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  padding-right: 2vw;
+  /* margin-left: 12vw; */
+}
+
+.gallery1 {
+  margin-bottom: 10px;
+  margin-right: 15px;
+  height: 280px;
+  width: 445px;
+}
+
+.gallery2 {
+  margin-top: 20px;
+  margin-bottom: 5px;
+  margin-right: 15px;
+  height: 280px;
+  width: 445px;
+}
+
+.gallery3 {
+  height: 592px;
+  width: 635px;
+}
+
+.table-4 {
+  margin-top: 15vh;
+  font-weight: bold;
+  text-align: center;
+  justify-content: center;
+  font-size: 32px;
+}
+
+.box-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  padding-right: 2vw;
+}
+
+.box-2 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 45px;
+  align-items: center;
+}
+
+.xx-model {
+  height: 310px;
+  width: 339px;
+}
+
+.xx-name {
+  font-weight: bold;
+  text-align: center;
+  margin: 30px 0 30px 0;
+}
+
